@@ -5,7 +5,7 @@
 
 <PropertyList> 
 	
-	<path>mesh_airframe.ac</path>
+	<path>mesh_airframe.gltf</path>
 	
 	<offsets>
 		<x-m>-22.6236</x-m>
